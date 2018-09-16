@@ -1,0 +1,5 @@
+total 1
+drwxr-xr-x 1 khanaway 197609  0 Sep 16 08:13 ./
+drwxr-xr-x 1 khanaway 197609  0 Sep 16 08:13 ../
+-rw-r--r-- 1 khanaway 197609  0 Sep 16 08:13 file_list.txt
+-rw-r--r-- 1 khanaway 197609 12 Sep 16 08:13 hello.txt
